@@ -1,6 +1,6 @@
 import requests
 
-url = "https://api.telegram.org/bot650359103:AAFBTA8YUZPjZND7JncKIVTEfxqnCHyAMN4/"
+url = "https://api.telegram.org/bot(TOKEN)/"
 
 
 def get_updates_json(request):  
