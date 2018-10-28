@@ -1,0 +1,1 @@
+{'ok': True, 'result': [{'update_id': 738168138, 'message': {'message_id': 7, 'from': {'id': 393683331, 'is_bot': False, 'first_name': 'Bogdan', 'last_name': 'Kaisin', 'username': 'kojolako', 'language_code': 'ru'}, 'chat': {'id': 393683331, 'first_name': 'Bogdan', 'last_name': 'Kaisin', 'username': 'kojolako', 'type': 'private'}, 'date': 1540742627, 'text': 'xcvbfg'}}]}
