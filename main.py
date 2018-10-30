@@ -1,16 +1,10 @@
-import telegram
-from tkinter import *
+import
+
+urlBOOKMAKER = "ua1xbet.com"
+version = "1.0"
+START_X = 0
 
 
 
 def main():
-    telegram.writetofilelastmassages("LASTDATA")
-    root = Tk()
-    root.title("Графическая программа на Python")
-    root.geometry("400x300")
-
-    root.mainloop()
-
-main()
-
-
+    START_X = 1
